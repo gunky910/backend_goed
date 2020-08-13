@@ -1,0 +1,17 @@
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.AssemblyInfoInputs.cache
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.AssemblyInfo.cs
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.RazorAssemblyInfo.cache
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.RazorAssemblyInfo.cs
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\backend_herexamen.deps.json
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\backend_herexamen.runtimeconfig.json
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\backend_herexamen.runtimeconfig.dev.json
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\backend_herexamen.dll
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\bin\Debug\netcoreapp2.2\backend_herexamen.pdb
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.RazorTargetAssemblyInfo.cache
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.dll
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.pdb
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.genruntimeconfig.cache
+C:\Users\joeri\Documents\school\angular\backend_goed\backend_herexamen\backend_herexamen\obj\Debug\netcoreapp2.2\backend_herexamen.csprojAssemblyReference.cache
